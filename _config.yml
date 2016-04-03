@@ -1,0 +1,12 @@
+# Site settings
+title: choro3.net
+email: mail@choro3.net
+description: あなたの万能デバッガー
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.choro3.net/" # the base hostname & protocol for your site
+twitter_username: choro3
+github_username:  choro3
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:year/:month/:day/:title

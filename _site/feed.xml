@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>choro3.net</title>
+    <description>あなたの万能デバッガー</description>
+    <link>http://www.choro3.net//</link>
+    <atom:link href="http://www.choro3.net//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Apr 2016 12:49:33 +0900</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2016 12:49:33 +0900</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Apache Kafka のメッセージ到達保証</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;メッセージが確実に重複なく届く保証はない&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Kafka は at-least-once が実現しやすいようにできている&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;理由…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;デフォルトで実現するわけではない&lt;/li&gt;
+  &lt;li&gt;理由&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ベターな設定方法&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;試してみる&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 29 Mar 2016 08:52:28 +0900</pubDate>
+        <link>http://www.choro3.net//posts/2016/03/29/kafka-guarantee</link>
+        <guid isPermaLink="true">http://www.choro3.net//posts/2016/03/29/kafka-guarantee</guid>
+        
+        <category>apache</category>
+        
+        <category>kafka</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>サイトを整理した</title>
+        <description>&lt;p&gt;長い間トップページだけで放置してしまっていたが、連休で暇ができたので jekyll を導入してみた。&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Sep 2015 23:39:22 +0900</pubDate>
+        <link>http://www.choro3.net//posts/2015/09/26/first-post</link>
+        <guid isPermaLink="true">http://www.choro3.net//posts/2015/09/26/first-post</guid>
+        
+        <category>jekyll</category>
+        
+        
+        <category>nikki</category>
+        
+        <category>server</category>
+        
+      </item>
+    
+  </channel>
+</rss>
