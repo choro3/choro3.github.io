@@ -5,39 +5,9 @@
     <description>あなたの万能デバッガー</description>
     <link>http://www.choro3.net//</link>
     <atom:link href="http://www.choro3.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Jan 2022 07:15:51 -0600</pubDate>
-    <lastBuildDate>Sun, 16 Jan 2022 07:15:51 -0600</lastBuildDate>
+    <pubDate>Sun, 16 Jan 2022 07:30:35 -0600</pubDate>
+    <lastBuildDate>Sun, 16 Jan 2022 07:30:35 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
-    
-      <item>
-        <title>Apache Kafka のメッセージ到達保証</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;メッセージが確実に重複なく届く保証はない&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Kafka は at-least-once が実現しやすいようにできている&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;理由…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;デフォルトで実現するわけではない&lt;/li&gt;
-  &lt;li&gt;理由&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;ベターな設定方法&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;試してみる&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 28 Mar 2016 18:52:28 -0500</pubDate>
-        <link>http://www.choro3.net//posts/2016/03/28/kafka-guarantee</link>
-        <guid isPermaLink="true">http://www.choro3.net//posts/2016/03/28/kafka-guarantee</guid>
-        
-        <category>apache</category>
-        
-        <category>kafka</category>
-        
-        
-      </item>
     
       <item>
         <title>サイトを整理した</title>
