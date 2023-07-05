@@ -5,16 +5,16 @@
     <description>あなたの万能デバッガー</description>
     <link>http://www.choro3.net//</link>
     <atom:link href="http://www.choro3.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Jan 2022 07:30:35 -0600</pubDate>
-    <lastBuildDate>Sun, 16 Jan 2022 07:30:35 -0600</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <pubDate>Thu, 06 Jul 2023 00:57:26 +0900</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2023 00:57:26 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>サイトを整理した</title>
         <description>&lt;p&gt;長い間トップページだけで放置してしまっていたが、連休で暇ができたので jekyll を導入してみた。&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 26 Sep 2015 09:39:22 -0500</pubDate>
+        <pubDate>Sat, 26 Sep 2015 23:39:22 +0900</pubDate>
         <link>http://www.choro3.net//posts/2015/09/26/first-post</link>
         <guid isPermaLink="true">http://www.choro3.net//posts/2015/09/26/first-post</guid>
         
