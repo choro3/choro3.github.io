@@ -6,7 +6,7 @@
   <meta name="twitter:card" content="summary" /></meta>
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
   {% if page.thumbnail %}
-  <meta name="twitter:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{{ page.thumbnail }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.thumbnail }}" />
   {% endif %}
   
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
