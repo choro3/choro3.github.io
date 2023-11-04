@@ -10,3 +10,9 @@ github_username:  choro3
 # Build settings
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

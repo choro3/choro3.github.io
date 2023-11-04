@@ -679,6 +679,10 @@ pre > code {
   content: "\e610";
 }
 
+.icon-tumblr2:before {
+  content: "\eaba";
+}
+
 .icon-reddit:before {
   content: "\e611";
 }
